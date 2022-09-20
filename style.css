@@ -5,4 +5,11 @@ body {
 
 header {
     top: 0;
+    position: fixed;
+}
+
+
+img {
+    width: 200px;
+    height: 200px;
 }
